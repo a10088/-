@@ -1,27 +1,29 @@
+
+
 # Futu / moomoo
 
-DOMAIN-SUFFIX,futunn.com,HK
+DOMAIN-SUFFIX,futunn.com,Proxy
 
-DOMAIN-SUFFIX,futubull.com,HK
+DOMAIN-SUFFIX,futubull.com,Proxy
 
-DOMAIN-SUFFIX,futuhk.com,HK
+DOMAIN-SUFFIX,futuhk.com,Proxy
 
-DOMAIN-SUFFIX,futusg.com,HK
+DOMAIN-SUFFIX,futusg.com,Proxy
 
-DOMAIN-SUFFIX,moomoo.com,HK
+DOMAIN-SUFFIX,moomoo.com,Proxy
 
-DOMAIN-KEYWORD,futu,HK
+DOMAIN-KEYWORD,futu,Proxy
 
-DOMAIN-KEYWORD,moomoo,HK
+DOMAIN-KEYWORD,moomoo,Proxy
 
 # Longbridge
 
-DOMAIN-SUFFIX,longbridge.com,HK
+DOMAIN-SUFFIX,longbridge.com,Proxy
 
-DOMAIN-SUFFIX,longbridge.hk,HK
+DOMAIN-SUFFIX,longbridge.hk,Proxy
 
-DOMAIN-SUFFIX,longbridge.sg,HK
+DOMAIN-SUFFIX,longbridge.sg,Proxy
 
-DOMAIN-SUFFIX,longbridgeapp.com,HK
+DOMAIN-SUFFIX,longbridgeapp.com,Proxy
 
-DOMAIN-KEYWORD,longbridge,HK
+DOMAIN-KEYWORD,longbridge,Proxy
