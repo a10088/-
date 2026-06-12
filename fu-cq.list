@@ -14,7 +14,7 @@ DOMAIN-KEYWORD,futu,Proxy
 
 DOMAIN-KEYWORD,moomoo,Proxy
 
-# ===== 长橋 =====
+# ===== 长桥 =====
 
 DOMAIN-SUFFIX,longbridge.com,Proxy
 
@@ -26,7 +26,7 @@ DOMAIN-SUFFIX,longbridgeapp.com,Proxy
 
 DOMAIN-KEYWORD,longbridge,Proxy
 
-# ===== 長橋實測關聯域名（入金）=====
+# ===== 长桥实测关联域名（入金）=====
 
 DOMAIN,api.lbkrs.com,Proxy
 
