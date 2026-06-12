@@ -1,4 +1,4 @@
-# Futu / moomoo
+# ===== 富途 / moomoo =====
 
 DOMAIN-SUFFIX,futunn.com,Proxy
 
@@ -14,7 +14,7 @@ DOMAIN-KEYWORD,futu,Proxy
 
 DOMAIN-KEYWORD,moomoo,Proxy
 
-# Longbridge
+# ===== 长橋 =====
 
 DOMAIN-SUFFIX,longbridge.com,Proxy
 
@@ -26,14 +26,8 @@ DOMAIN-SUFFIX,longbridgeapp.com,Proxy
 
 DOMAIN-KEYWORD,longbridge,Proxy
 
-# IBKR
+# ===== 長橋實測關聯域名（入金）=====
 
-DOMAIN-SUFFIX,lbkrs.com,Proxy
+DOMAIN,api.lbkrs.com,Proxy
 
-DOMAIN-SUFFIX,lbctrl.com,Proxy
-
-DOMAIN-KEYWORD,ibkr,Proxy
-
-DOMAIN-KEYWORD,lbkrs,Proxy
-
-DOMAIN-KEYWORD,lbctrl,Proxy
+DOMAIN,api-g.lbkrs.com,Proxy
