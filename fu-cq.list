@@ -26,6 +26,14 @@ DOMAIN-SUFFIX,longbridgeapp.com,Proxy
 
 DOMAIN-KEYWORD,longbridge,Proxy
 
+# IBKR
+
 DOMAIN-SUFFIX,lbkrs.com,Proxy
 
 DOMAIN-SUFFIX,lbctrl.com,Proxy
+
+DOMAIN-KEYWORD,ibkr,Proxy
+
+DOMAIN-KEYWORD,lbkrs,Proxy
+
+DOMAIN-KEYWORD,lbctrl,Proxy
