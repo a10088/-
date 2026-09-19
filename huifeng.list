@@ -1,0 +1,16 @@
+# > >> HK Bank
+
+# HSBC
+HOST,c-hsbc.lytics.io,Bank
+HOST,mobile.eum-appdynamics.com,Bank
+HOST,tags.tiqcdn.com,Bank
+HOST,hsbc.edge.sdk.awswaf.com,Bank
+HOST,cdnbc.wup.hsbc.com.hk,Bank
+HOST,cdn.optimizely.com,Bank
+HOST,log-58144bf0.we-stats.com,Bank
+HOST-SUFFIX,tealiumiq.com,Bank
+HOST-SUFFIX,hsbc.com.hk,Bank
+HOST-SUFFIX,online-metrix.net,Bank
+HOST-SUFFIX,cloud1.vv1865.com,Bank
+HOST-SUFFIX,liveperson.net,Bank
+HOST-SUFFIX,lpsnmedia.net,Bank
